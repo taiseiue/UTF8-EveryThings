@@ -6,6 +6,11 @@
     <RootNamespace>UTF8_EveryThings</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>utf8</AssemblyName>
+    <Authors>WSOFT</Authors>
+    <Product>UTF8-EveryThings</Product>
+    <PackageProjectUrl>https://github.com/taiseiue/UTF8-EveryThings</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/taiseiue/UTF8-EveryThings</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
